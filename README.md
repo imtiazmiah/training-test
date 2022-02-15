@@ -6,3 +6,8 @@ This is a traing repository for the course
 -  git
 -  github
 -  version control
+
+This set of changes from RStudio
+
+- apples
+- pears
